@@ -1,2 +1,2 @@
-# Oktavianus-Auwdri_I0320077_Aditya-Mahendra_Tugas2
+# Oktavianus_Auwdri_I0320077_Aditya_Mahendra_Tugas2
 Praktikum Program Komputer Tugas 2
